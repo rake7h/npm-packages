@@ -1,1 +1,2 @@
 chai: BDD/TDD assertion library for node.js and the browser. Test framework agnostic.
+faker: generate massive amounts of fake data in the browser and node.js
