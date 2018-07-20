@@ -1,0 +1,7 @@
+eslint: ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code
+babel-eslint: babel-eslint allows you to lint ALL valid Babel code with the fantastic ESLint.
+eslint-config-airbnb: This package provides Airbnb's .eslintrc as an extensible shared config.
+  eslint-plugin-import
+  eslint-plugin-react
+  eslint-plugin-jsx-a11y
+sass-lint: A Node-only Sass linter for both sass and scss syntax!  
